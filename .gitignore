@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Sorting numbers/out/
+/Problems/Sorting numbers/out/production/classes/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
